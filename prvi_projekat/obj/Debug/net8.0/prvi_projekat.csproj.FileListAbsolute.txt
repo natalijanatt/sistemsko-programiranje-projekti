@@ -1,0 +1,15 @@
+C:\Users\Natalija\Documents\III godina\sistemsko programiranje\prvi_projekat\bin\Debug\net8.0\prvi_projekat.exe
+C:\Users\Natalija\Documents\III godina\sistemsko programiranje\prvi_projekat\bin\Debug\net8.0\prvi_projekat.deps.json
+C:\Users\Natalija\Documents\III godina\sistemsko programiranje\prvi_projekat\bin\Debug\net8.0\prvi_projekat.runtimeconfig.json
+C:\Users\Natalija\Documents\III godina\sistemsko programiranje\prvi_projekat\bin\Debug\net8.0\prvi_projekat.dll
+C:\Users\Natalija\Documents\III godina\sistemsko programiranje\prvi_projekat\bin\Debug\net8.0\prvi_projekat.pdb
+C:\Users\Natalija\Documents\III godina\sistemsko programiranje\prvi_projekat\obj\Debug\net8.0\prvi_projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalija\Documents\III godina\sistemsko programiranje\prvi_projekat\obj\Debug\net8.0\prvi_projekat.AssemblyInfoInputs.cache
+C:\Users\Natalija\Documents\III godina\sistemsko programiranje\prvi_projekat\obj\Debug\net8.0\prvi_projekat.AssemblyInfo.cs
+C:\Users\Natalija\Documents\III godina\sistemsko programiranje\prvi_projekat\obj\Debug\net8.0\prvi_projekat.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Documents\III godina\sistemsko programiranje\prvi_projekat\obj\Debug\net8.0\prvi_projekat.dll
+C:\Users\Natalija\Documents\III godina\sistemsko programiranje\prvi_projekat\obj\Debug\net8.0\refint\prvi_projekat.dll
+C:\Users\Natalija\Documents\III godina\sistemsko programiranje\prvi_projekat\obj\Debug\net8.0\prvi_projekat.pdb
+C:\Users\Natalija\Documents\III godina\sistemsko programiranje\prvi_projekat\obj\Debug\net8.0\prvi_projekat.genruntimeconfig.cache
+C:\Users\Natalija\Documents\III godina\sistemsko programiranje\prvi_projekat\obj\Debug\net8.0\ref\prvi_projekat.dll
+C:\Users\Natalija\Documents\III godina\sistemsko programiranje\prvi_projekat\obj\Debug\net8.0\prvi_projekat.sourcelink.json
