@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\projekti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\projekti\\projekat_tri\\TopicModeling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projekat_tri\\TopicModeling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\projekti\\projekat_tri\\WebServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projekat_tri\\WebServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\projekti\\projekat_tri\\RxPipelines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projekat_tri\\RxPipelines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\projekti\\projekat_tri\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projekat_tri\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\projekti\\projekat_tri\\Model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projekat_tri\\Model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\projekti\\projekat_tri\\GitHubService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projekat_tri\\GitHubService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebServer.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\projekti\\projekat_tri\\WebServer.cs",
+              "RelativeDocumentMoniker": "projekat_tri\\WebServer.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\projekti\\projekat_tri\\WebServer.cs",
+              "RelativeToolTip": "projekat_tri\\WebServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T11:56:11.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TopicModeling.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\projekti\\projekat_tri\\TopicModeling.cs",
+              "RelativeDocumentMoniker": "projekat_tri\\TopicModeling.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\projekti\\projekat_tri\\TopicModeling.cs",
+              "RelativeToolTip": "projekat_tri\\TopicModeling.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAHsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T11:55:39.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RxPipelines.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\projekti\\projekat_tri\\RxPipelines.cs",
+              "RelativeDocumentMoniker": "projekat_tri\\RxPipelines.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\projekti\\projekat_tri\\RxPipelines.cs",
+              "RelativeToolTip": "projekat_tri\\RxPipelines.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T11:55:37.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\projekti\\projekat_tri\\Model.cs",
+              "RelativeDocumentMoniker": "projekat_tri\\Model.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\projekti\\projekat_tri\\Model.cs",
+              "RelativeToolTip": "projekat_tri\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T11:55:33.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GitHubService.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\projekti\\projekat_tri\\GitHubService.cs",
+              "RelativeDocumentMoniker": "projekat_tri\\GitHubService.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\projekti\\projekat_tri\\GitHubService.cs",
+              "RelativeToolTip": "projekat_tri\\GitHubService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T11:55:23.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\projekti\\projekat_tri\\Program.cs",
+              "RelativeDocumentMoniker": "projekat_tri\\Program.cs",
+              "ToolTip": "C:\\Users\\Natalija\\Documents\\III godina\\sistemsko programiranje\\projekti\\projekat_tri\\Program.cs",
+              "RelativeToolTip": "projekat_tri\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T11:55:05.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

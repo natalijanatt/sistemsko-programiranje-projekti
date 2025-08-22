@@ -1,0 +1,5 @@
+C:\Users\Natalija\Documents\III godina\sistemsko programiranje\projekat_tri\obj\Debug\net6.0\projekat_tri.csproj.AssemblyReference.cache
+C:\Users\Natalija\Documents\III godina\sistemsko programiranje\projekat_tri\obj\Debug\net6.0\projekat_tri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalija\Documents\III godina\sistemsko programiranje\projekat_tri\obj\Debug\net6.0\projekat_tri.AssemblyInfoInputs.cache
+C:\Users\Natalija\Documents\III godina\sistemsko programiranje\projekat_tri\obj\Debug\net6.0\projekat_tri.AssemblyInfo.cs
+C:\Users\Natalija\Documents\III godina\sistemsko programiranje\projekat_tri\obj\Debug\net6.0\projekat_tri.csproj.CoreCompileInputs.cache
